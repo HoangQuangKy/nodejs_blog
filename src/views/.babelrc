@@ -1,0 +1,6 @@
+{
+    "presets": [
+        "@babel/preset-env"
+    ]
+}
+// file cài babel node js để sử dụng cú pháp import
